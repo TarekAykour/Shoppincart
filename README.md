@@ -1,4 +1,4 @@
-#This project is a shoppinCart
+#Shopping Cart wih redux
 We'll use React and redux for this project
 
 1. make products
